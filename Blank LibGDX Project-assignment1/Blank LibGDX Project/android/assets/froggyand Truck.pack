@@ -1,0 +1,26 @@
+
+froggyand Truck.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+froggy
+  rotate: false
+  xy: 1, 35
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+car
+  rotate: false
+  xy: 1, 1
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: -1
+splat
+  rotate: false
+  xy: 259, 131
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
